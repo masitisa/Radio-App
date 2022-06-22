@@ -8,7 +8,7 @@ import Record from './Record';
 import Playing from './Playing';
 import Play from './Play'
 import Search from './Search'
-//import Slider from '@react-native-community/slider';
+
 
 export default function App(Station, setStation) {
   const Stations = [
